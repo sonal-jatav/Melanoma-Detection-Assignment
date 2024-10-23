@@ -1,4 +1,4 @@
-# Project Name
+# Melanoma Detection Assignment
 > **Detect images and classify into 9 classes**
 
 ## Objective:
